@@ -1,4 +1,5 @@
 # importing libraries
+# its gaming app
 import pygame
 import time
 import random
